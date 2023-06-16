@@ -1,0 +1,7 @@
+namespace: pgthingy
+
+resources:
+- cert-ha.yaml
+- cert-pgbouncer.yaml
+- cert-repl.yaml
+- postgres.yaml

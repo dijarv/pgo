@@ -1,2 +1,2 @@
-# pgo
-This is an example of ha postgres cluster with connection pooling using certificates. This is enabled through PGO
+# PGO
+This repository contains examples for deploying PGO, the Postgres Operator from Crunchy Data. In this example we have a HA Postgres deployment using certificates for auth as well as pgbouncer for connection pooling
